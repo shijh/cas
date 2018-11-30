@@ -254,7 +254,7 @@ public interface CasWebflowConstants {
     String STATE_ID_GATEWAY_REQUEST_CHECK = "gatewayRequestCheck";
 
     /**
-     * The state 'gatewayRequestCheck'.
+     * The state 'generateServiceTicket'.
      */
     String STATE_ID_GENERATE_SERVICE_TICKET = "generateServiceTicket";
 
@@ -647,7 +647,7 @@ public interface CasWebflowConstants {
     String ACTION_ID_REDIRECT_TO_SERVICE = "redirectToServiceAction";
 
     /**
-     * Action id 'redirectToServiceAction'.
+     * Action id 'terminateSessionAction'.
      */
     String ACTION_ID_TERMINATE_SESSION = "terminateSessionAction";
 
